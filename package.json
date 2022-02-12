@@ -1,0 +1,17 @@
+{
+  "name": "vinted-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express-formidable": "^1.2.0",
+    "mongoose": "^6.2.1"
+  }
+}
